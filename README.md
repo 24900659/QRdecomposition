@@ -58,7 +58,8 @@ print(R)
 ```
 
 ## Output
-![image](https://github.com/user-attachments/assets/8cb549b9-2ba0-4cb5-a608-8fc412afb9ad)
+![Screenshot 2025-05-16 200002](https://github.com/user-attachments/assets/c1645359-eda7-4c78-9842-94e3a1877da2)
+
 
 ```
 
